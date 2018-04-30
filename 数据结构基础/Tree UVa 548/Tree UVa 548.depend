@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521968383 source:e:\codeblockproject\算法入门竞赛经典\tree uva 548\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+

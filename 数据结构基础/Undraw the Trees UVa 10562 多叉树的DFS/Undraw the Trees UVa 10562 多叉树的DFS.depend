@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523672781 source:e:\codeblockproject\算法入门竞赛经典\undraw the trees uva 10562 多叉树的dfs\main.cpp
+	<cstdio>
+	<cctype>
+	<cstring>
+
