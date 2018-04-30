@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524490558 source:e:\codeblockproject\算法入门竞赛经典\krypton factor uva129 回溯法：避免无用判断\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+
