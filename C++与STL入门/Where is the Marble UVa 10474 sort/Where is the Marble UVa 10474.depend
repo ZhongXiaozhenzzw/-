@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520953629 source:e:\codeblockproject\算法入门竞赛经典\where is the marble uva 10474\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

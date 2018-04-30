@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521263469 source:e:\codeblockproject\算法入门竞赛经典\database uva1592 map的妙用\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<map>
+	<vector>
+
